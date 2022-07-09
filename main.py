@@ -1,6 +1,4 @@
-#20190409-20190490
-#Mazen muhammed-Muhammed yassin
-#s5,6
+#Author: Muhammed yassin Ahmed
 
 import numpy as np
 import pandas as pd
